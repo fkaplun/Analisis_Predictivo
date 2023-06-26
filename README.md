@@ -8,3 +8,4 @@
 ## TP2
 #### [Codigo](https://github.com/fkaplun/Analisis_Predictivo/blob/main/AP_TP2_Federico_Kaplun.ipynb)
 #### [Presentacion](https://github.com/fkaplun/Analisis_Predictivo/blob/main/AP_TP2_Federico_Kaplun.pdf)
+#### [Presentacion recuperatorio](https://github.com/fkaplun/Analisis_Predictivo/blob/main/AP_extra_Federico_Kaplun.pdf)
